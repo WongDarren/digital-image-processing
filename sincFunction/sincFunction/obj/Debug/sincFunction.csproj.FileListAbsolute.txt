@@ -1,0 +1,12 @@
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\bin\Debug\sincFunction.exe.config
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\bin\Debug\sincFunction.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\bin\Debug\sincFunction.pdb
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.csprojAssemblyReference.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.Double.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.Main.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.Properties.Resources.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.Quadruple.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.csproj.GenerateResource.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.csproj.CoreCompileInputs.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Debug\sincFunction.pdb

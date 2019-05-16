@@ -1,0 +1,10 @@
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\bin\Debug\assignment2.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\bin\Debug\assignment2.pdb
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.csprojAssemblyReference.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.GetRGB.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.Properties.Resources.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.csproj.GenerateResource.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\assignment2\assignment2\obj\Debug\assignment2.pdb

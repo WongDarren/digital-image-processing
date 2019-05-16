@@ -1,0 +1,10 @@
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\bin\Debug\NewCanny.exe.config
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\bin\Debug\NewCanny.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\bin\Debug\NewCanny.pdb
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.csprojAssemblyReference.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.Main.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.Properties.Resources.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.csproj.GenerateResource.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.csproj.CoreCompileInputs.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\NewCanny\NewCanny\obj\Debug\NewCanny.pdb

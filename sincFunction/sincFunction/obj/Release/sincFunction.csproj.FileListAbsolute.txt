@@ -1,0 +1,11 @@
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\bin\Release\sincFunction.exe.config
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\bin\Release\sincFunction.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\bin\Release\sincFunction.pdb
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.Double.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.Main.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.Properties.Resources.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.Quadruple.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.csproj.GenerateResource.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.csproj.CoreCompileInputs.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\sincFunction\sincFunction\obj\Release\sincFunction.pdb

@@ -1,0 +1,16 @@
+﻿  XORAND.cpp
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(61): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wongd\desktop\cs 469\source\repos\xorand\xorand\xorand.cpp(186): warning C4552: '-': result of expression not used
+  XORAND.vcxproj -> C:\Users\wongd\Desktop\CS 469\source\repos\XORAND\Debug\XORAND.exe

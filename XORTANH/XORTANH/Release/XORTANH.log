@@ -1,0 +1,31 @@
+﻿  XORTANH.cpp
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(45): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(120): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(18): warning C4101: 'u3': unreferenced local variable
+c:\users\wongd\desktop\cs 469\source\repos\xortanh\xortanh\xortanh.cpp(17): warning C4101: 'z1': unreferenced local variable
+  Generating code
+  2 of 148 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  XORTANH.vcxproj -> C:\Users\wongd\Desktop\CS 469\source\repos\XORTANH\Release\XORTANH.exe

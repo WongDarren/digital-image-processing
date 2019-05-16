@@ -1,0 +1,15 @@
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\bin\Release\openImage.exe.config
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\bin\Release\openImage.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\bin\Release\openImage.pdb
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Cyan_Scale.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Magenta_Scale.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Open_Image.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Gray_Scale.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Red_Scale.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Green_Scale.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Blue_Scale.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.Properties.Resources.resources
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.csproj.GenerateResource.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.csproj.CoreCompileInputs.cache
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.exe
+C:\Users\wongd\Desktop\CS 469\source\repos\openImage\openImage\obj\Release\openImage.pdb
